@@ -7,6 +7,6 @@ Currently contributing to Meshery and other cloud native projects while building
 **Tech:** AWS · Docker · Kubernetes · Linux · Terraform · GitHub Actions · CI/CD · Go
 
 **Links:**  
-🌐 https://obaidinfo.xyz  
+🌐 https://obaidabdullah.com/  
 💼 https://linkedin.com/in/obaid-abdullah-a66556283  
 📧 obaidabdullah1610@gmail.com
